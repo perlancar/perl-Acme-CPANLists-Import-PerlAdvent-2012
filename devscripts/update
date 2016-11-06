@@ -28,6 +28,7 @@ gen_curried_sub(
                 name => "2012_12_02",
                 url => "http://perladvent.org/2012/2012-12-02.html",
                 summary => "Modules mentioned in Perl Advent Calendar 2012 (day 02)",
+                add_modules => ['ack'],
             },
             {
                 name => "2012_12_03",
@@ -63,6 +64,7 @@ gen_curried_sub(
                 name => "2012_12_09",
                 url => "http://perladvent.org/2012/2012-12-09.html",
                 summary => "Modules mentioned in Perl Advent Calendar 2012 (day 09)",
+                add_modules => ['re'],
             },
             {
                 name => "2012_12_10",
